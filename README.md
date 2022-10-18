@@ -1,4 +1,4 @@
-- :sunflower: Hello, world! I’m @Maggie-Pressanykey
+- :sunflower: Hello, world! I’m @RitaGakinuliants
 - I’m a newbie to Github and IT-world) 
 - Really into video games:
 - wanna be QA-specialist in game developing industry 
