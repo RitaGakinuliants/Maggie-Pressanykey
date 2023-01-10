@@ -5,6 +5,7 @@
 - and create my own game-project someday)
 - :snail: I’m currently learning Python at Courcera.org :)
 - 📫 How to reach me - m.gakinuliants@gmail.com
+- LinkedIn - https://www.linkedin.com/in/gakinuliantsrita/
 
 <!---
 Maggie-Pressanykey/Maggie-Pressanykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
