@@ -1,11 +1,9 @@
 - :sunflower: Hello, world! I’m @RitaGakinuliants
 - I’m a newbie to Github and IT-world) 
 - Really into video games:
-- wanna be QA-specialist in game developing industry 
-- and create my own game-project someday)
-- :snail: I’m currently learning Python at Courcera.org :)
+- starting my way to become a great gamedesigner and indie-gamedeveloper
+
 - 📫 How to reach me - m.gakinuliants@gmail.com
-- LinkedIn - https://www.linkedin.com/in/gakinuliantsrita/
 
 <!---
 Maggie-Pressanykey/Maggie-Pressanykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
