@@ -1,7 +1,5 @@
 - :sunflower: Hello, world! I’m @RitaGakinuliants
-- I’m a newbie to Github and IT-world) 
-- Really into video games:
-- starting my way to become a great gamedesigner and indie-gamedeveloper
+- Starting my way to become a great gamedesigner and indie-gamedeveloper
 
 - 📫 How to reach me - m.gakinuliants@gmail.com
 
