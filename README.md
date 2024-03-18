@@ -1,5 +1,5 @@
-- :sunflower: Hello, world! I’m @RitaGakinuliants
-- Starting my way to become a great gamedesigner and indie-gamedeveloper
+- :sunflower: @RitaGakinuliants
+- Gamedesigner/ indie-gamedeveloper
 
 - 📫 How to reach me - m.gakinuliants@gmail.com
 
